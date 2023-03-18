@@ -1,1 +1,1 @@
-# My first project from frontend mentor!
+# This is webpage that gives all information about an Event Conference
